@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Catie Balasubramanian",
+	"description":	{
+		"":	"Input first serial number and number of duplicate parts, after properly setting parameters. Script will set first serial number, export it as an STL with appropriate naming convention (as per parameters and inputted serial numbers)"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
